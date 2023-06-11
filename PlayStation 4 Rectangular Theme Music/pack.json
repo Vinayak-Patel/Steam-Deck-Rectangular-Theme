@@ -1,1 +1,9 @@
-
+{
+  "name": "PlayStation 4 Rectangular Theme Music",
+  "author": "Vinayak-Patel",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "mappings": {},
+  "ignore": []  
+}
