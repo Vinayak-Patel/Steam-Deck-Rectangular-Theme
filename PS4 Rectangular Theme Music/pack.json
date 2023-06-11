@@ -1,0 +1,10 @@
+{
+  "name": "PS4 Rectangular Theme Music",
+  "description": "This pack plays the music from PS4 Rectangular Theme Home Menu in your Steam Deck's menu.",
+  "author": "Vinayak-Patel",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
